@@ -6,7 +6,7 @@
   <a href="https://t.me/axesthump">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
-  <a href="https://resume.io/r/P3b1jghebp">
+  <a href="https://resume.io/r/P3b1jgheb">
     <img src="https://img.shields.io/badge/Resume-green?logo=book&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
 </div>
